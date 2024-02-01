@@ -1,6 +1,5 @@
 <h1 align="center"> Hey 👋, I'm Jai Bairagi  </h1>
 <h3 align="center">A passionate software developer and data scientist from India   </h3>
-# 💫 About Me:
 🔭 I’m currently working on ML Project and React<br>🌱 I’m currently pursuing B.Tech in Electronics and Communication<br>📝 I regularly practice DSA on Leetcode<br>📫 How to reach me jai.bairagi01@gmail.com<br>⚡ Fun fact I am a professional Athelete
 
 
