@@ -10,7 +10,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jaibairagi01&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
-🔭 I’m currently working on ML Project<br>🌱 I’m currently pursuing B.Tech in Electronics and Communication <br>
+🔭 I’m currently working on ReactJS Project<br>🌱 I’m currently pursuing B.Tech in Electronics and Communication <br>
 📝 I regularly practice DSA on Leetcode<br>
 📫 How to reach me jai.bairagi01@gmail.com<br>
 ⚡ Fun fact I am a professional Athelete
