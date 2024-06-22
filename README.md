@@ -7,7 +7,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->       
                
 ## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=jaibairagi01&theme=radical&no-frame=false&no-bg=false&margin-w=4) 
+![](https://github-profile-trophy.vercel.app/?username=jaibairagi01&theme=radical&no-frame=false&no-bg=false&margin-w=4)  
    
 
 🔭 I’m currently working on ReactJS Project<br>🌱 I’m currently pursuing B.Tech in Electronics and Communication <br>
