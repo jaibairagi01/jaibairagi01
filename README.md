@@ -1,4 +1,4 @@
-<h1 align="center"> Hey 👋, I'm Jai Bairagi</h1>
+<h1 align="center"> Hey 👋, I'm Jai Bairagi</h1> 
 <h3 align="center">A passionate fresher from India who is looking for FullTime </h3>        
         
 ---   
