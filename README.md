@@ -6,7 +6,7 @@
     
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->       
                
-## 🏆 GitHub Trophies  
+## 🏆 GitHub Trophies   
 ![](https://github-profile-trophy.vercel.app/?username=jaibairagi01&theme=radical&no-frame=false&no-bg=false&margin-w=4)  
    
 
